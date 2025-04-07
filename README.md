@@ -1,9 +1,7 @@
-# TextGenAdvTrack-2025Spring
-
-# ✨ DeepfakesAdvTrack - Spring 2025
+# ✨ TextGenAdvTrack - Spring 2025
 Hi, every one! 
 
-This is the official repository for DeepfakesAdvTrack, the practical session of the cource **AI Security and Adversarial Defense** which is offered to students of UCAS in the spring of 2025.
+This is the official repository for TextGenAdvTrack, the practical session of the cource **AI Security and Adversarial Defense** which is offered to students of UCAS in the spring of 2025.
 
 ## Cource infomation
 
